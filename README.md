@@ -1,3 +1,3 @@
 # helloworld
-This is my first expearence in C#
-Actually, this is my homework in C# cource from gb.ru
+This is my first experience in C#
+Actually, this is my homework in C# course from gb.ru
